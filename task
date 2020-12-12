@@ -1,0 +1,24 @@
+{
+    "name":"jscos task gallery",
+    "description":"https://github.com/Agitw/QuantumultX",
+    "task":[
+        "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/unipay.png, enabled=false",
+        "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jd/JD_BaiTiao.js, tag=京东白条, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jddj.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js, tag=去哪儿, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/qunar.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/sfexpress.png, enabled=false",
+        "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Haidilao/Haidilao.js, tag=海底捞, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/haidilao.png, enabled=false",
+        "29 8 * * * https://raw.githubusercontent.com/iepngs/Script/master/ctrip/index.js,tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=false",
+        "0 9 * * * https://ooxx.be/js/jegotrip.js, tag=无忧行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jegotrip.png, enabled=false",
+        "0 18 * * * https://ooxx.be/js/maoyan.js, tag=猫眼电影, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/maoyan.png, enabled=false",
+        "0 9 * * * https://ooxx.be/js/umer.js, tag=优麦医生, img-url=https://raw.githubusercontent.com/Orz-3/mini/master//umer.png, enabled=false",
+        "7 0 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/7days.js,tag=梨涡签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/liwo.png, enabled=false",
+        "5 8 * * * https://raw.githubusercontent.com/iisams/Scripts/master/liwo/jdtqz.js, tag= 京东特权值, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false",
+        "0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/zscdbSign.js, tag=追书畅读版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/zscdb.png, enabled=false",
+        "0 10 0 * * * https://raw.githubusercontent.com/XidNDD/2020scripts/master/jddsSign.js, tag=京东读书签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jdds.png, enabled=false",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js, tag=携程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png, enabled=false",
+        "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/elong/elong_draw.js, tag=艺龙酒店, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elong.png, enabled=false",
+        "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jd.png, enabled=false"
+    ]
+}
