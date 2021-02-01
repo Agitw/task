@@ -2,7 +2,6 @@
     "name":"jscos task gallery",
     "description":"https://github.com\/Agitw\/QuantumultX",
     "task":[
-        "0 9 * * * https://gitee.com\/passerby-b\/javascript\/raw\/master\/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com\/Orz-3\/mini\/master\/unipay.png, enabled=false",
         "0 9 * * * https://raw.githubusercontent.com\/chavyleung\/scripts\/master\/jd\/JD_BaiTiao.js, tag=京东白条, img-url=https://raw.githubusercontent.com\/Orz-3\/mini\/master\/jd.png, enabled=false",
         "1 0 * * * https://raw.githubusercontent.com\/chavyleung\/scripts\/master\/jddj\/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com\/Orz-3\/mini\/master\/jddj.png, enabled=false",
         "1 0 * * * https://raw.githubusercontent.com\/chavyleung\/scripts\/master\/qunar\/qunar.js, tag=去哪儿, img-url=https://raw.githubusercontent.com\/Orz-3\/mini\/master\/qunar.png, enabled=false",
